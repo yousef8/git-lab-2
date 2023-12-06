@@ -78,3 +78,7 @@
 1. **Locally**
 
     ![](./imgs/git-lab2-9-c.png)
+
+## 10. Add an image to README.md file
+
+![](./imgs/git-lab2-10.png)
